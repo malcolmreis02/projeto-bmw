@@ -7,7 +7,7 @@ que decidi que iria virar um desenvolvedor.<br>
 Com isso, fiz a transferência de curso na minha antiga universidade (udesc) para a minha atual (unicamp), saindo de engenharia de petróleo para estatística/ciência de dados.<br>  
 Junto com a universidade, iniciei alguns cursos com a Digital Innovation One e esse site da BMW foi feito com no meu primeiro treinamento colocando em prática minhas habilidades iniciais acerca de html, css e o meu primeiro framework usado Bootstrap</p>
 
-<h1 aling=center>Site</h1>
+<h2 aling=center>Site</h2>
 <p><img src="assets/gif/site-bmw.gif"><p>
 
 
