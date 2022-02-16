@@ -19,3 +19,5 @@ Junto com a universidade, iniciei alguns cursos com a Digital Innovation One e e
     <li>Redirecionamento interno</li>
     <li>Paleta de cores</li>
 </ul>
+
+<p>link para acesso ao site: https://malcolmreis02.github.io/projeto-bmw/</p>
